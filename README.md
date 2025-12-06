@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un programador de 19 años con una pasión inagotable por la tecnología y el desarrollo de software. Me encanta sumergirme en nuevos proyectos y aprender constantemente.<br><br>Soy muy proactivo y busco activamente oportunidades para ampliar mis conocimientos y habilidades. Me considero un autodidacta y disfruto explorando nuevas tecnologías y frameworks por mi cuenta.<br><br>Actualmente estoy buscando oportunidades para trabajar en proyectos desafiantes y colaborar con equipos de desarrollo talentosos. Me interesa especialmente el desarrollo web.
+Soy un programador de 20 años con una pasión inagotable por la tecnología y el desarrollo de software. Me encanta sumergirme en nuevos proyectos y aprender constantemente.<br><br>Soy muy proactivo y busco activamente oportunidades para ampliar mis conocimientos y habilidades. Me considero un autodidacta y disfruto explorando nuevas tecnologías y frameworks por mi cuenta.<br><br>Actualmente estoy buscando oportunidades para trabajar en proyectos desafiantes y colaborar con equipos de desarrollo talentosos. Me interesa especialmente el desarrollo web.
 
 
 ## 🌐 Socials:
